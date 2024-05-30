@@ -1,0 +1,103 @@
+.topdiv{
+  
+  height: 40px;
+}
+.gradient-container {
+  /* Linear Gradient from top to bottom */
+  background: linear-gradient(to right, #270B0B, #920505);
+
+  /* Other styles for the container */
+ 
+  display: flex;
+  }
+  .w{
+    width: 30%;
+  }
+  .left{
+    margin-top: 8px;
+    width: 80px;
+    height: 80%;
+
+    align-items:left ;
+  }
+  .bor{
+    height: 33px;
+    height: auto;
+    background-color:#F5F5F5;
+  }
+  .co{
+    
+    color: gray;
+  }
+  .mar{
+    
+    margin-left: 3px;
+  }
+  .i{
+    content: url('./assets/images/Component\ 2.png');
+  }
+  .size{
+    width: 296px;
+    height: 68px;
+  }
+  .heart-icon {
+  position: relative;
+  display: inline-block;
+}
+
+.fa-stack-1x {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.fa-stack-2x {
+  position: relative;
+  
+}
+.divsize{
+  margin-left:0px ;
+  background-color: #510000;
+  width: 100%;
+  height: auto;
+}
+.right{
+  margin-left: 45px ;
+}
+.vertical-line {
+  width: 0.1px; /* Set the width of the line */
+  height: 350px; /* Set the height to cover the full height of its container */
+ 
+  background-color: #c5c1c1; /* Set the color of the line */
+ padding: 2px;
+}
+.im{
+  align-items: start;
+}
+.foot-container{
+  background: linear-gradient(to bottom, #000000, #3A0101);
+ 
+}
+.l{
+  width: 182px;
+  height: 49px;
+}
+.bor{
+  background-color: white;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+
+}
+.gradient{
+  background: linear-gradient(to right, #270B0B, #920505);
+}
+.abt{
+  width: 100%;
+  
+}
+.wid{
+  width: 155px;
+  height: 140px;
+ }
+ .form-check-input:checked {
+  background-color: black;
+  border-color: black;
+}
